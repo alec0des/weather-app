@@ -1,5 +1,3 @@
-import axios from "axios";
-
 let apiKey = "b1a8336ff1e05b64da5625e4158fbea3";
 let now = new Date();
 let days = [
